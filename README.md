@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello, I'm Cesare 👨‍💻
+
+I'm a Senior Web developer based in Italy 🇮🇹
+
+I'm currently working at [Qonto](qonto.com)
+
+Pssst, [we are hiring](https://refer.hellotrusty.io/l8rcz4a0zy)! 
+
+I also have a strong experience with React, Angular and TypeScript.
+
 
 <!--
 **crushjz/crushjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
